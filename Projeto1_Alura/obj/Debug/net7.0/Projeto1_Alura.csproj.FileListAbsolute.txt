@@ -1,0 +1,14 @@
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto1_Alura\Projeto1_Alura\bin\Debug\net7.0\Projeto1_Alura.exe
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto1_Alura\Projeto1_Alura\bin\Debug\net7.0\Projeto1_Alura.deps.json
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto1_Alura\Projeto1_Alura\bin\Debug\net7.0\Projeto1_Alura.runtimeconfig.json
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto1_Alura\Projeto1_Alura\bin\Debug\net7.0\Projeto1_Alura.dll
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto1_Alura\Projeto1_Alura\bin\Debug\net7.0\Projeto1_Alura.pdb
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto1_Alura\Projeto1_Alura\obj\Debug\net7.0\Projeto1_Alura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto1_Alura\Projeto1_Alura\obj\Debug\net7.0\Projeto1_Alura.AssemblyInfoInputs.cache
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto1_Alura\Projeto1_Alura\obj\Debug\net7.0\Projeto1_Alura.AssemblyInfo.cs
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto1_Alura\Projeto1_Alura\obj\Debug\net7.0\Projeto1_Alura.csproj.CoreCompileInputs.cache
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto1_Alura\Projeto1_Alura\obj\Debug\net7.0\Projeto1_Alura.dll
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto1_Alura\Projeto1_Alura\obj\Debug\net7.0\refint\Projeto1_Alura.dll
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto1_Alura\Projeto1_Alura\obj\Debug\net7.0\Projeto1_Alura.pdb
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto1_Alura\Projeto1_Alura\obj\Debug\net7.0\Projeto1_Alura.genruntimeconfig.cache
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto1_Alura\Projeto1_Alura\obj\Debug\net7.0\ref\Projeto1_Alura.dll
