@@ -6,7 +6,7 @@ Aplicação de console feita com C# no Visual Studio 2022, contendo opções com
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
+Consulte **[Implantação](https://learn.microsoft.com/pt-br/visualstudio/get-started/tutorial-open-project-from-repo?view=vs-2022)** para saber como implantar o projeto.
 
 ### 📋 Pré-requisitos
 
